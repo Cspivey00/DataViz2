@@ -1,7 +1,7 @@
 # DataViz2
 OECD - Government Debt Graph
 
-The below is a graphic created on the OECD website for General Government to Debt (as a percentage) for a snapshot of 2015:
+The below is a graphic created on the OECD website for General Government Debt to GDP (as a percentage) for a snapshot of 2015:
 <iframe src="https://data.oecd.org/chart/5Pga" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Pga" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 However, in this graphic, I have created a a time lapse of General Government Debt (as a percentage of GDP) from 1995-2018 using a beeswarm plot through the RawGraphs application. It allows us to compare across each country against other countries and look at the time lapse of their debt to GDP ratio. 
